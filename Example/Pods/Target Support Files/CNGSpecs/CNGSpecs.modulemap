@@ -1,0 +1,6 @@
+framework module CNGSpecs {
+  umbrella header "CNGSpecs-umbrella.h"
+
+  export *
+  module * { export * }
+}

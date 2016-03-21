@@ -1,0 +1,14 @@
+PODS:
+  - CNGSpecs (0.1.0)
+
+DEPENDENCIES:
+  - CNGSpecs (from `../`)
+
+EXTERNAL SOURCES:
+  CNGSpecs:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CNGSpecs: 48c662fcc2251f266b2435b519c04380be6a1192
+
+COCOAPODS: 0.39.0
